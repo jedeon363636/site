@@ -1,4 +1,13 @@
 body{
-    background-color: aqua;
-    color:brown;
+    
+    
+    background-image: url(/static/images/font2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+        
+
+   
+    
+
+
 }
